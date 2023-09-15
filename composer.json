@@ -1,0 +1,12 @@
+{
+    "name": "codestar/codestar-framework",
+    "description": "Simple and Lightweight WordPress Option Framework for Themes and Plugins",
+    "authors": [
+        {
+            "name": "Codestar",
+            "homepage": "http://codestarframework.com/"
+        }
+    ],
+    "license": "GPL-2.0+",
+    "type": "wordpress-plugin"
+}
